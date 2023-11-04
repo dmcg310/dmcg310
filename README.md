@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,ts,js,python,"/>
-  </a>
-</p>
+> "You can't know everything, but you should convince yourself that you can know anything." - John Carmack
